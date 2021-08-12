@@ -18,6 +18,17 @@
         "mac": "Cmd+Alt+S",
         "windows": "CtrlAlt+S"
       }
+    },
+    {
+      "type": "command",
+      "id": "createRainbowStyledText",
+      "label": {
+        "default": "Create Rainbow Styled Text"
+      },
+      "shortcut": {
+        "mac": "Cmd+Alt+R",
+        "windows": "CtrlAlt+R"
+      }
     }
   ],
   "icons": [
